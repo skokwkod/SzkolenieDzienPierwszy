@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab20___KlasaMetody_cwiczenia_
+namespace lab21___KlasaKonstruktor__cwiczenie1_
 {
     class Zwierze
     {
@@ -14,6 +14,25 @@ namespace lab20___KlasaMetody_cwiczenia_
         public string nazwa;
         public int iloscNog;
         public int iloscOczu;
+
+        public Zwierze()
+        {
+        }
+
+        public Zwierze(string nazwa, int iloscOczu,int iloscNog)
+        {
+            this.nazwa = nazwa;
+            this.iloscOczu = iloscOczu;
+            this.iloscNog = iloscNog;
+        }
+
+        public Zwierze(string nazwa, int iloscOczu) :this(nazwa,iloscOczu,4)
+        {
+
+        }
+
+
+
 
 
         /// <summary>
