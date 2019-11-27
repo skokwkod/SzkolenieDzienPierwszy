@@ -28,7 +28,7 @@ namespace lab19__Klasa__Cwiczenie_
             mucha.iloscNog = 6;
             mucha.iloscOczu = 2;
 
-
+            //as/asassasasaasasasassa
             Console.WriteLine($"Nazwa: {pies.nazwa}, Ilosc Nog: {pies.iloscNog}, Ilosc Oczu: {pies.iloscOczu}\n");
 
             Console.WriteLine($"Nazwa: {pajak.nazwa}, Ilosc Nog: {pajak.iloscNog}, Ilosc Oczu: {pajak.iloscOczu}\n");

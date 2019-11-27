@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab19 - Klasa", "lab19 - Kl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab19 -Klasa (Cwiczenie)", "lab19 -Klasa (Cwiczenie)\lab19 -Klasa (Cwiczenie).csproj", "{0FDBD5A9-1C1B-4DD8-BE33-36683E77383D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab20 - KlasaMetody", "lab20 - KlasaMetody\lab20 - KlasaMetody.csproj", "{D541DE2D-C516-4608-9C3C-6280A6FE9BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab20 - KlasaMetody(cwiczenia)", "lab20 - KlasaMetody(cwiczenia)\lab20 - KlasaMetody(cwiczenia).csproj", "{6BF9AB59-7DA9-46A8-B395-070AC15323C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{0FDBD5A9-1C1B-4DD8-BE33-36683E77383D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FDBD5A9-1C1B-4DD8-BE33-36683E77383D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FDBD5A9-1C1B-4DD8-BE33-36683E77383D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D541DE2D-C516-4608-9C3C-6280A6FE9BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D541DE2D-C516-4608-9C3C-6280A6FE9BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D541DE2D-C516-4608-9C3C-6280A6FE9BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D541DE2D-C516-4608-9C3C-6280A6FE9BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF9AB59-7DA9-46A8-B395-070AC15323C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF9AB59-7DA9-46A8-B395-070AC15323C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF9AB59-7DA9-46A8-B395-070AC15323C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF9AB59-7DA9-46A8-B395-070AC15323C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
