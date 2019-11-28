@@ -47,6 +47,7 @@ namespace lab21___KlasaKonstruktor
             {
                 aktualnaPredkosc = 0;
             }
+            else aktualnaPredkosc -= wartosc;
         }
     }
 

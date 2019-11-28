@@ -12,11 +12,11 @@ namespace lab23___KlasaAbstrakcyjna_Cwiczenie_
         {
             TrainRobot trainRobot = new TrainRobot();
             trainRobot.GiveName();
-            Console.WriteLine(trainRobot.Name+ " " + trainRobot.Work());
+          //  Console.WriteLine(trainRobot.Name+ " " + trainRobot.Work());
             
             CarRobot carRobot = new CarRobot();
             carRobot.GiveName();
-            Console.WriteLine(carRobot.Name+ " " + carRobot.Work());
+       //     Console.WriteLine(carRobot.Name+ " " + carRobot.Work());
 
             Console.ReadKey();
         }
