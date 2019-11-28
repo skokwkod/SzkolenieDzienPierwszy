@@ -9,7 +9,7 @@ namespace lab28___Interfejsy
     interface IPojazd
     {
         string Marka { get; set; }
-        int RokProdukcji { get;; }
+        int RokProdukcji { get; }
        int AktualnaPredkosc { get; set; }
         int MaksymalnaPredkosc { get; set; }
         bool WlaczonySilnik { get; set; }
